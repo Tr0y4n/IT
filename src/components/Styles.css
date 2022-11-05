@@ -1,0 +1,12 @@
+.Head {
+  width: 100%;
+  height: 70px;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+h2 {
+  color: azure;
+}

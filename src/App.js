@@ -1,23 +1,89 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from "./components/Header";
+
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <Header />
+      <div className="card">
+        <h2 className="zag">Задачи</h2>
+        <hr />
+        <h4>Лабораторная работа 1</h4>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Экоститема разработки программ с открытым кодом: Создание персональной
+          страницы-отчёта на github и работа с git
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+        <h4>Лабораторная работа 2</h4>
+        <p>
+          Разработка простого веб-приложения: Проектирование и разработка
+          индивидуального или коллективного веб-приложения (SPA) с
+          использованием html,css,js + json,xml
+        </p>
+        <h4>Лабораторная работа 3</h4>
+        <p>
+          Настройка локальной сети передачи данных: Настройка коммутаторов и
+          маршрутизаторов
+        </p>
+        <h4>Подготовка к экзамену</h4>
+        <p>
+          Самооценка прохождения теста по инновациям, формулировка одного
+          вопроса по теме "Интернет-технологии" в одной из форм, встречающихся в
+          тесте (выбор одного, выбор многих, упорядочивание, соответствие)
+        </p>
+      </div>
+      <div className="card">
+        <h2 className="zag">Лабораторная работа №1</h2>
+        <hr />
+        <h4>Регистрация на GitHub</h4>
+        <a href="https://github.com/Tr0y4n">Страница пользователя</a>
+        <h4>
+          Создать персональную веб страницу-отчет с использованием html, css, js
+        </h4>
+        <a href="https://github.com/Tr0y4n">Персональная страница-отчет</a>
+        <h4>
+          Загрузить персональную веб страницу-отчет в репозиторий ИДМ-22 по
+          курсу "Интернет-технологии" на GitHub
+        </h4>
+        <a href="https://github.com/Tr0y4n/IT">
+          Папка с исходными кодами в репозитории
         </a>
-      </header>
+      </div>
+      <div className="card">
+        <h2 className="zag">Лабораторная работа №2</h2>
+        <hr />
+        <h4>1. Сформировать команду и распредилить роли Команда и роли</h4>
+        <a href="https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit#gid=1327184368">
+          Команда и роли
+        </a>
+        <h4>2. Выбрать идею для создания приложения</h4>
+        <a>Идея</a>
+        <h4>
+          3. Смакетировать эскиз приложения4. Выбрать стек технологий для
+          разработки
+        </h4>
+        <a>Эскиз</a>
+        <h4>4. Выбрать стек технологий для разработки</h4>
+        <a>Стек</a>
+        <h4>5. Написание кода</h4>
+        <a>Код</a>
+      </div>
+      <div className="card">
+        <h2 className="zag">Лабораторная работа №3</h2>
+        <hr />
+        <h4>1. Настроить сеть в Сisco Packet Tracer</h4>
+        <a>Packet Tracer</a>
+        <h4>2.Отчет по лабораторной работе доступен по ссылке:</h4>
+        <a>Отчет</a>
+      </div>
+      <div className="card">
+        <h2 className="zag">Подготовка к экзамену</h2>
+        <hr />
+        <h4>Билет №4</h4>
+        <a href="https://github.com/stankin/inet-2022/wiki/exam04">
+          Ссылка на реферат
+        </a>
+      </div>
     </div>
   );
 }
