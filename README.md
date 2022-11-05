@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Информационные технологии - Лабораторные
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Пронин Артём, ИДМ-22-06
 
-## Available Scripts
+## Лабораторная работа №1
 
-In the project directory, you can run:
+1.  Регистрация на GitHub.\
+[Страница пользователя](https://github.com/Tr0y4n)
+2.  Создать персональную веб страницу-отчет с использованием html, css, js.\
+[Персональная страница-отчет](https://artam0noff.github.io/IT/)
+3.  Загрузить персональную веб страницу-отчет в репозиторий ИДМ-22 по курсу "Интернет-технологии" на GitHub.\
+[Папка с исходными кодами в репозитории](https://github.com/Artam0noff/IT)
 
-### `npm start`
+## Лабораторная работа №2
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1.  Сформировать команду и распредилить роли.\
+[Команда и роли](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit#gid=1327184368)
+2.  Выбрать идею для создания приложения.\
+Идея
+3.  Смакетировать эскиз приложения.\
+Эскиз
+4.  Выбрать стек технологий для разработки.\
+Стек
+5.  Написание кода.\
+Код
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Лабораторная работа №3
 
-### `npm test`
+1.  Настроить сеть в Сisco Packet Tracer. Packet Tracer
+2.  Отчет по лабораторной работе доступен по ссылке: Отчет
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Подготовка к экзамену
+### Билет № 25
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Ответ на экзаменационный билет: [Билет №25](https://github.com/stankin/inet-2022/wiki/exam25)
