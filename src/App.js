@@ -79,8 +79,8 @@ function App() {
       <div className="card">
         <h2 className="zag">Подготовка к экзамену</h2>
         <hr />
-        <h4>Билет №4</h4>
-        <a href="https://github.com/stankin/inet-2022/wiki/exam04">
+        <h4>Билет №1</h4>
+        <a href="https://github.com/stankin/inet-2022/wiki/exam01">
           Ссылка на реферат
         </a>
       </div>
