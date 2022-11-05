@@ -45,7 +45,7 @@ function App() {
           Загрузить персональную веб страницу-отчет в репозиторий ИДМ-22 по
           курсу "Интернет-технологии" на GitHub
         </h4>
-        <a href="https://github.com/Tr0y4n/IT">
+        <a href="https://github.com/Tr0y4n/IT/tree/master">
           Папка с исходными кодами в репозитории
         </a>
       </div>
