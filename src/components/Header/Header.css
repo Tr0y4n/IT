@@ -1,0 +1,11 @@
+.head {
+    background-color: black;
+    height: 70px;
+    color: azure;
+    font-size: 26px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+}

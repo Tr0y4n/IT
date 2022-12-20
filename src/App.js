@@ -1,11 +1,15 @@
-import Header from "./components/Header";
-
 import "./App.css";
+import Header from "./components/Header/Header";
+import p1 from './1.png';
+import p2 from './2.png'
+import p3 from './3.png'
+import p4 from './4.png'
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Header />
+      <div className="App">
       <div className="card">
         <h2 className="zag">Задачи</h2>
         <hr />
@@ -52,39 +56,36 @@ function App() {
       <div className="card">
         <h2 className="zag">Лабораторная работа №2</h2>
         <hr />
-        <h4>1. Сформировать команду и распредилить роли Команда и роли</h4>
-        <a href="https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit#gid=1327184368">
-          Команда и роли
+        <h4>Название команды: Marvelous</h4>
+        <h4>Управление проектами: Пронин Артём</h4>
+        <h4>Системное программирование: Смирнов Александр</h4>
+        <h4>Научные исследования: Носачёв Егор</h4>
+        <h4>Бизнес-анализ: Белоцерковец Александр</h4>
+        <h4>Администрирование: Артамонов Сергей</h4>
+        <h4>Прикладное программирование: Гаджиев Магамедрасул, Полс Андрей</h4>
+        <a href="https://github.com/mgcolossus/inet-2022-group-project">
+          Ссылка на результат с пояснениями
         </a>
-        <h4>2. Выбрать идею для создания приложения</h4>
-        <a>Идея</a>
-        <h4>
-          3. Смакетировать эскиз приложения4. Выбрать стек технологий для
-          разработки
-        </h4>
-        <a>Эскиз</a>
-        <h4>4. Выбрать стек технологий для разработки</h4>
-        <a>Стек</a>
-        <h4>5. Написание кода</h4>
-        <a>Код</a>
-      </div>
+        </div>
       <div className="card">
         <h2 className="zag">Лабораторная работа №3</h2>
         <hr />
         <h4>1. Настроить сеть в Сisco Packet Tracer</h4>
-        <a>Packet Tracer</a>
-        <h4>2.Отчет по лабораторной работе доступен по ссылке:</h4>
-        <a>Отчет</a>
+        <img src={p1}></img>
+        <img src={p2}></img>
+        <img src={p3}></img>
+        <img src={p4}></img>
       </div>
       <div className="card">
         <h2 className="zag">Подготовка к экзамену</h2>
         <hr />
-        <h4>Билет №1</h4>
-        <a href="https://github.com/stankin/inet-2022/wiki/exam01">
+        <h4>Билет №4</h4>
+        <a href="https://github.com/stankin/inet-2022/wiki/exam04">
           Ссылка на реферат
         </a>
       </div>
-    </div>
+      </div>
+      </div>
   );
 }
 
